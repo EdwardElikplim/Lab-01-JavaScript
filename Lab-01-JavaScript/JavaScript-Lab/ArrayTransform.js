@@ -34,3 +34,5 @@ function average(arr) {
 
   return sum(arr) / arr.length;
 }
+module.exports = { isNumericArray, doubleArr, filterEven, sum, average
+};

@@ -37,3 +37,6 @@ function isAdult(person) {
         message: "Not an adult"
     };
 }
+module.exports = { isValidPerson, isAdult, fullName
+
+};

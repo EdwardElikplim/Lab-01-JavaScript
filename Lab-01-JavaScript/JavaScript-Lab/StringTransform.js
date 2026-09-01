@@ -48,3 +48,4 @@ function wordCount(str) {
 
   return count;
 }
+module.exports = { capitalize, reverse, isPalindrome, wordCount }
